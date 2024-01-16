@@ -1,0 +1,16 @@
+{
+  "name": "correct_password_generator",
+  "version": "1.0.1",
+  "description": "Generating the right passwords that will be tamper-resistant",
+  "main": "index.js",
+  "keywords": [
+    "password",
+    "generator",
+    "password generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janna02/NodeJs-GB/tree/main/seminar2"
+  },
+  "author": "author"
+}
